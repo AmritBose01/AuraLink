@@ -1,4 +1,4 @@
-### AuraLink 
+# AuraLink 
 AuraLink is a wearable gestural interface that turns hand movements into digital commands. 
 
 ### The Vision
