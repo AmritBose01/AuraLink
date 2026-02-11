@@ -1,15 +1,4 @@
-# AuraLink 
-AuraLink is a wearable gestural interface that turns hand movements into digital commands. 
-
-### The Vision
-To create a seamless bridge between physical motion and software control, allowing creators to "sculpt" sound or control interfaces without touching a mouse.
-
-### Current Status
-- **Simulation:** 100% functional in Wokwi (Check `hardware/` for proof).
-- **Logic:** Firmware supports 5-finger tracking and 6-axis motion.
-- **Goal:** Apply for Hack Club Blueprint to build the physical prototype.
-
-### Folder Guide
-- `/firmware`: Arduino/C++ code for the ESP32.
-- `/hardware`: Wiring diagrams and simulation screenshots.
-- `/docs`: Budgeting and project documentation.
+AuraLink is a wearable glove that translates hand movements into digital commands its more like conducting music or sculpting sound without ever touching a mouse.
+The idea came from me wanting a more physical, intuitive way to interact with software. Instead of clicking and dragging, you just move your hands.
+the whole thing is fully simulated in Wokwi (see the hardware folder), the firmware handles all 5 fingers plus 6-axis motion tracking, and I'm currently applying for Hack Club Blueprint to fund the physical build.
+Thanks for reading my readme!
